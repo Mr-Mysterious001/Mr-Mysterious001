@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-mysterious001" alt="mr-mysterious001" /></a> </p>
 
+[![An image of @mrmysterious001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrmysterious001)](https://holopin.io/@mrmysterious001)
+
 <p align="center"> <a href="https://twitter.com/codealpha_04" target="blank"><img src="https://img.shields.io/twitter/follow/codealpha_04?logo=twitter&style=for-the-badge" alt="codealpha_04" /></a> </p>
 
 - 🔭 I’m currently working on **My portfolio website**
