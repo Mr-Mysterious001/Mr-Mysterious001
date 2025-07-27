@@ -13,15 +13,15 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **Web Development and DSA**
+- 🌱 I’m currently learning **Data Science, Web Development and DSA**
 
-- 👯 I’m looking to collaborate on **any project regarding web dev or in java**
+- 👯 I’m looking to collaborate on **any project regarding data science, web dev or in java**
 
 - 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at [github.com/MR-Mysterious001](github.com/MR-Mysterious001)
 
-- 💬 Ask me about **HTML, CSS, Java, C**
+- 💬 Ask me about **HTML, CSS, Java, C, Python**
 
 - 📫 How to reach me **chandrakshay13@gmail.com**
 
